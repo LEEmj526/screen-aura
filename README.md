@@ -129,7 +129,7 @@ Shortcuts operate inside the app; global keyboard monitoring is not used. Launch
 
 **[Buy Screen Aura Pro — $1.49 USD, one-time](https://1380489593066.gumroad.com/l/screen-aura-pro).** Gumroad supplies a license key with your purchase. Paste it into **Pro & license → Gumroad license key**, then choose **Activate key**. First activation requires internet. Taxes, conversion and the final total appear at checkout.
 
-The app stores the key in this Mac's Keychain. After activation, cached Pro works offline. Launches recheck a saved license after 24 hours; network failure keeps existing activation. A verified refund, chargeback or invalidated key returns the app to Free. **Forget license** removes the local activation while preserving the trial record. This build does not impose a device-count limit.
+The app stores the key in this Mac's Keychain. After activation, cached Pro works offline. Launches recheck a saved license after 24 hours; network failure keeps existing activation. A verified refund, chargeback or invalidated key returns the app to Free. **Deactivate this Mac** removes the local activation while preserving the trial record. This build does not impose a device-count limit.
 
 Downloading the Free installer or making an optional Free tip does not unlock Pro. The purchase covers current Pro features; future features and dates are not promised. Report reproducible bugs through [GitHub Issues](https://github.com/LEEmj526/screen-aura/issues) or your Gumroad purchase/support channel. Keep license keys out of public reports.
 
