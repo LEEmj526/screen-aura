@@ -1,9 +1,11 @@
-# Screen Aura 0.3.0 — Development Preview
+# Screen Aura 1.0.0 — Early Access
 
-Initial native macOS MVP with two free presets, customizable edge lighting, focus timer, per-display preferences, scheduling and Korean/English settings.
+Free includes Calm Mist and Afterglow, custom colors and edge controls, focus timer, display preferences, schedules, app exclusions, JSON import/export and Korean/English settings.
 
-The Universal binary contains arm64 and x86_64 slices targeting macOS 13. Built using Apple Swift 6.1.2 and the macOS 15.5 SDK. The 60 core checks and AppKit integration checks passed on macOS 15.8.1 Apple Silicon. Raster verification confirmed a fully transparent center and maximum alpha 152/255. Animation cleanup, timer completion deduplication and paused-timer restart restoration were verified.
+Pro ($1.49 USD, one-time) adds Midnight Current, Nordic Dawn and Mono Edge, app bundle-ID profiles and battery charging-start signals. An optional explicit 14-day trial, Gumroad key verification, Keychain storage and offline cached activation are implemented. The same Universal app supports both tiers; imported JSON cannot bypass Pro gating.
 
-This is an ad-hoc signed development build. Developer ID signing, notarization and clean-Mac installation verification are not complete. Physical multi-display, Intel runtime and the broader manual compatibility matrix remain pending. Pro commerce/license/trial, battery signals, automatic app profiles and automatic updates are not included. Gumroad sales are on hold pending the paid Pro release.
+Built with Apple Swift 6.1.2 / macOS SDK 15.5, targeting macOS 13. CoreChecks: 83 passed. AppKit, raster and Free/Pro integration checks passed on one Apple Silicon Mac running macOS 15.8.1. Center alpha is 0; maximum observed alpha is 152/255. See TEST_RESULTS.md for limitations.
 
-Assets: Universal DMG and its SHA-256 checksum. Source is kept in the private source repository.
+**Ad-hoc signed, not Apple notarized.** No Developer ID identity is available on the build Mac. macOS may block installation; test Free before purchasing. Physical multi-display, real Intel runtime, clean-Mac installation and sustained energy tests remain pending. Automatic updates are not included.
+
+Assets: Universal DMG, SHA-256 checksum and QUICKSTART.txt. Source is kept in the private source repository. This release remains a GitHub pre-release during Early Access.

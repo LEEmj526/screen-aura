@@ -1,0 +1,27 @@
+Screen Aura 1.0.0 Early Access — macOS 13+
+
+IMPORTANT: This Universal build is ad-hoc signed, not Apple notarized.
+macOS may prevent it from opening. Try Free before buying Pro.
+Do not disable macOS security protections. Clean-Mac, Intel runtime,
+physical multi-display and sustained energy validation remain pending.
+
+1. Open the DMG and drag ScreenAura.app into Applications.
+2. Launch the app if macOS permits this early-access build.
+3. Open settings from the menu-bar sparkle icon. Quit from that menu.
+4. Free includes Calm Mist/Afterglow, custom colors, focus timer,
+   display controls, schedules and app exclusions.
+5. Pro costs $1.49 USD once: three extra themes, app profiles and
+   charging-start signals on supported battery-equipped Macs.
+6. An optional 14-day trial starts only when you click Start trial.
+7. Buy: https://1380489593066.gumroad.com/l/screen-aura-pro
+   Enter your receipt's license key in Pro & license, then Activate.
+   First activation requires internet. The key is saved in Keychain.
+   Network failure preserves cached Pro; verified revocation returns Free.
+8. Automatic updates are not included. New builds and support:
+   https://github.com/LEEmj526/screen-aura/releases
+   https://github.com/LEEmj526/screen-aura/issues
+
+한국어: DMG에서 앱을 응용 프로그램으로 옮기고 실행하세요.
+공증되지 않은 Early Access이므로 구매 전 무료 앱의 실행을 확인하세요.
+Pro 구매 영수증의 라이선스 키를 ‘Pro와 라이선스’에서 입력합니다.
+14일 체험은 직접 시작한 경우에만 적용됩니다. 자동 업데이트는 없습니다.
